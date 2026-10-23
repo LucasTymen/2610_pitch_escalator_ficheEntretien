@@ -5,6 +5,7 @@ Préparation à l'entretien du **jeudi 22 octobre 2026, 14h00** (visio Microsoft
 ## Contenu du dépôt
 
 - `Presentation_Lucas_Tymen_Escalator_corrigee.html` — fiche de présentation interactive autonome (s'ouvre directement dans un navigateur ; jQuery chargé depuis un CDN).
+- `index.html` — redirection vers la fiche de présentation (Vercel sert ce nom à la racine du site).
 - `Presentation_Lucas_Tymen_Escalator.md` — fiche source Markdown embarquant le HTML/CSS du duplicata (accordéons, couleurs, typographie).
 
 ## Structure de la fiche HTML
